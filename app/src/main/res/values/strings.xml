@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string-array name="nombreGasesosas">
+        <item>coca-cola</item>
+        <item>inka-kola</item>
+        <item>kola-real</item>
+        <item>oro</item>
+        <item>concordia</item>
+        <item>pepsi</item>
+        <item>sprite</item>
+    </string-array>
+    <string name="gaseosas">selecione marca </string>
+</resources>
